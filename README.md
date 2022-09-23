@@ -3,7 +3,7 @@
 ### Hi there, Just my little oasis where I will try to document things! 👋
 
 Site: https://jiggyjigs.me
-Contact: jigggy@jiggyjigs.me
+Contact: jiggy@jiggyjigs.me
 
 ## Builds
 
